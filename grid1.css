@@ -1,0 +1,14 @@
+.container1{
+    width:auto;
+    height:375px;
+    display: grid;
+    background-color: green;
+    color:bisque;
+    border: 2px solid bisque;
+}
+.green{
+    height:75px;
+    color:bisque;
+    border: 2px solid bisque;
+    grid-template-rows:100px 150px auto 80px ;
+}
